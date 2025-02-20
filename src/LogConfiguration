@@ -1,0 +1,5 @@
+Ts_format: DDMMYYYY
+log_level: INFO
+logger_type: ASYNC
+buffer_size: 25
+sink_type: STDOUT
